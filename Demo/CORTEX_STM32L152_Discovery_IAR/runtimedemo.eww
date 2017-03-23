@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\RTOSDemo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\CORTEX_STM32L152_Discovery_IAR_2\RTOSDemo.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
