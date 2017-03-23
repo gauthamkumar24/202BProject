@@ -16,6 +16,9 @@ Usage :
 
 3.Specify the min and max CPU usage range for OnDemand CPU governor policy.
 
-4. CPU usage can be obtained through the function vCpuStats() function.
+4.CPU usage can be obtained through the function vCpuStats() function.
+
+More details and implementation approach can be found at https://sites.google.com/g.ucla.edu/freertospowermangement
+
 
 
